@@ -1,0 +1,12 @@
+.cards{
+    display: flex;
+    margin: 20px;
+    flex-wrap: wrap;
+}
+.card{
+    padding: 10px;
+    width: 450px;
+    margin: 20px;
+    border: 1px solid black;
+    cursor: pointer;
+}
